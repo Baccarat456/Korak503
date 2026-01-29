@@ -1,0 +1,17 @@
+{
+    "actorSpecification": 1,
+    "name": "Podcast Transcript Aggregator scraper",
+    "title": "Podcast Transcript Aggregator scraper",
+    "description": "Podcast Transcript Aggregator scraper",
+    "version": "0.0",
+    "meta": {
+        "templateId": "ai-generated-actor",
+        "generatedBy": "Gpt-4o-mini"
+    },
+    "input": "./input_schema.json",
+    "output": "./output_schema.json",
+    "storages": {
+        "dataset": "./dataset_schema.json"
+    },
+    "dockerfile": "../Dockerfile"
+}
